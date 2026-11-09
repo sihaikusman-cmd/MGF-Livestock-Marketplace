@@ -1,0 +1,6 @@
+{
+  "name": "Metro Goat Farm (MGF)",
+  "description": "Direct goat marketplace and livestock trade platform by Metro Enterprises. Buy and sell goats directly with seller contacts, photo listings, and Mumbai animal doctor support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
